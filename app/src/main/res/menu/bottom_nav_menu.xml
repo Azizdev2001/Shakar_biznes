@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bosh_sahifa"
+        android:title="@string/bosh_sahifa"
+        android:icon="@drawable/ic_home"
+        />
+
+    <item
+        android:id="@+id/kunlik_hisobot"
+        android:title="@string/kunlik_hisobot"
+        android:icon="@drawable/ic_checklist"
+        />
+
+    <item
+        android:id="@+id/klientlar"
+        android:title="@string/klientlar"
+        android:icon="@drawable/ic_client"
+        />
+
+    <item
+        android:id="@+id/sklad"
+        android:title="@string/sklad"
+        android:icon="@drawable/ic_sklad"
+        />
+</menu>

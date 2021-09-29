@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Shakar biznes</string>
+    <string name="bosh_sahifa">Bosh sahifa</string>
+    <string name="kunlik_hisobot">Kunlik hisobot</string>
+    <string name="klientlar">Klientlar</string>
+    <string name="sklad">Sklad</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="umumiy">Umumiy</string>
+    <string name="kassa_sum">Kassa sum</string>
+    <string name="kassa_dollor">Kassa dollor</string>
+    <string name="bank">Bank</string>
+    <string name="klientlarni_qidirish">Klientlarni qidirish</string>
+    <string name="barchasi">Barchasi</string>
+    <string name="boshlang_ich">Boshlang\'ich</string>
+    <string name="skladdagi_qoldiq">Skladdagi qoldiq</string>
+    <string name="kiritish">Kiritish</string>
+    <string name="haqlarim">Haqlarim</string>
+    <string name="qarzlarim">Qarzlarim</string>
+</resources>
